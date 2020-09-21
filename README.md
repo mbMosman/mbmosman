@@ -1,4 +1,4 @@
-_## Woot! Nice to meet you. I'm Mary.
+## Woot! Nice to meet you. I'm Mary.
 
 I'm a Software Engineer & Instructor, currently teaching at [Prime Digital Academy](http://primeacademy.io) in Minneapolis, MN. Over the years, I’ve done web development at companies throughout the Twin Cities, but teaching is what I'm passionate about. I enjoy teaching people of all ages the joy of programming.
 
