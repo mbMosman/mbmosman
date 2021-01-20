@@ -11,4 +11,4 @@ I'm a Software Engineer & Instructor, currently teaching at [Prime Digital Acade
 
 - Gatsby & Next as React options for a blog update
 - Kyudo with [MN Kyudo Renmei](https://www.mnkyudo.org/)
-- Japanese - 170+ day DuoLingo streak.
+- Japanese - 220+ day DuoLingo streak.
