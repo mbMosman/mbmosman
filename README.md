@@ -9,6 +9,6 @@ My degree is in Russian Language (which I’ve long since forgotten how to speak
 
 ### What I'm currently learning
 
-- Gatsby & Next as React options for a blog update
+- Vue.js & GraphQL
 - Japanese 
 - How to read Korean / Hangul
