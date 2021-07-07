@@ -1,6 +1,6 @@
 ## Woot! Nice to meet you. I'm Mary.
 
-I'm a Software Engineer & Instructor, currently teaching at [Prime Digital Academy](http://primeacademy.io) in Minneapolis, MN. Over the years, I’ve done web development at companies throughout the Twin Cities, but teaching is what I'm passionate about. I enjoy teaching people of all ages the joy of programming.
+My degree is in Russian Language (which I’ve long since forgotten how to speak), but my career has been spent in tech.  I’ve worked as a web application developer for 20+ years, but teaching is what excites me most.  I’ve taught people of all ages through formal classes and informal meet-ups and code camps. Outside of tech, I have a love of languages and maps. While I long to travel the real world some day, for now I’m more likely to be journeying through imaginary places from books, games, or anime or perhaps dreaming up some place new of my own creation. 
 
 ### About me in 3 (non-tech) bullets:
 - 100% :cat: over :dog: (My three cats rule my world.)
@@ -10,5 +10,5 @@ I'm a Software Engineer & Instructor, currently teaching at [Prime Digital Acade
 ### What I'm currently learning
 
 - Gatsby & Next as React options for a blog update
-- Kyudo with [MN Kyudo Renmei](https://www.mnkyudo.org/)
-- Japanese
+- Japanese 
+- How to read Korean / Hangul
