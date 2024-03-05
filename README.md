@@ -8,5 +8,5 @@ Keen to collaborate or share ideas? Let’s turn our creative sparks into someth
 
 ### About me in 3 (non-tech) bullets:
 - 100% :cat: over :dog: (With my partner, we've got a 4 cat, 1 dog family.)
-- My first choice for genuine free time is creating fantasy world maps.( 😭 I don't have that time now, as I have a solid backlog of home improvement projects.)
+- My first choice for genuine free time is creating fantasy world maps.(😭 Currently blocked by a solid backlog of home projects.)
 - I am a :rice_ball: in the fruit basket, and I'm OK with that.(Everything *important* about life I learned from Fruits Basket.) 
